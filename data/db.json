@@ -1,0 +1,6 @@
+{
+  "tasks": [
+    { "todo": "do the loundry", "id": 1 },
+    { "todo": "cook dinner", "id": 2 }
+  ]
+}
